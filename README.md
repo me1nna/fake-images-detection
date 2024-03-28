@@ -1,2 +1,2 @@
-# fake-image-detection
-src с участия в соревновании "Сгенерировано или нет"
+# Fake Image Detection
+<a href="https://www.kaggle.com/competitions/generated-or-not/overview">Сгенерировано или нет</a>

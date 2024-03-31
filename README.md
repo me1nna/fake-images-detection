@@ -1,2 +1,8 @@
-# Fake Image Detection
-<a href="https://www.kaggle.com/competitions/generated-or-not/overview">Сгенерировано или нет</a>
+# <a href="https://www.kaggle.com/competitions/generated-or-not/overview">Детекция сгенерированных изображений (fake image detection)</a>
+
+Задача fake image detection заключается в том, чтобы отличить сгенерированные нейросетью изображения от реальных. 
+По сути решается задача бинарной классификации: 1 - сгенерировано нейросетью, 0 - реальное изображение.
+
+## Подходы к решению задачи:
+
+1) Взять и обучить, к примеру, <a href=https://gaurijagatap.github.io/assets/CGI.pdf>ResNet</a>, на тренировочном датасете на задачу бинарной классификации.

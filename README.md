@@ -8,6 +8,16 @@
 
   1.1) Написать простую сверточную сеть и обучить на трейне, как <a href=https://gaurijagatap.github.io/assets/CGI.pdf>тут</a>
 
-  1.2) Зафайнтьюнить ResNet
+  1.2) Зафайнтьюнить ResNet (изменить последний слой):
+
+  ![image](https://github.com/me1nna/fake-image-detection/assets/78222093/7ec6d5d4-619c-4802-9360-75ccdbe2d1a3)
+
+  
+  лучший скор на Kaggle (на 02.04) (в файле ResNet.ipynb обучение):
+  ![image](https://github.com/me1nna/fake-image-detection/assets/78222093/2313e179-74ce-431c-9460-5333dedc0e87)
+
 
   1.3) Зафайнтьюнить ImageNet
+
+  Проблема: сеть, очевидно, переобучится под генератор, с помощью которого созданы картинки из трейна и теста, имеющие метку 1 (сгенерировано ИИ)
+

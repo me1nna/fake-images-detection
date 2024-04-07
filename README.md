@@ -46,6 +46,3 @@
 ![image](https://github.com/me1nna/fake-image-detection/assets/78222093/1fd8e7a1-fb11-4026-be9a-dd70f80baa62)
 
 ## Заметим, что классы в тренировочной выборке несбалансированы:
-
-
-  Был найден <a href="https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images/code">датасет</a>, который содержит 60,000 реальных изображений и столько же фейковых. Он хорошо подходит для обучения на нем модели, требующейся в соревновании.

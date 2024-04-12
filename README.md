@@ -44,5 +44,3 @@
   Лучший результат:
   
 ![image](https://github.com/me1nna/fake-image-detection/assets/78222093/1fd8e7a1-fb11-4026-be9a-dd70f80baa62)
-
-## Заметим, что классы в тренировочной выборке несбалансированы:

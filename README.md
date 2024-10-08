@@ -1,4 +1,4 @@
-# <a href="https://www.kaggle.com/competitions/generated-or-not/overview">Детекция сгенерированных изображений (fake image detection)</a>
+# Детекция сгенерированных изображений <a href="https://www.kaggle.com/competitions/generated-or-not/overview">(fake image detection)</a>
 
 Задача fake image detection заключается в том, чтобы отличить сгенерированные нейросетью изображения от реальных. В свете последних событий с выходом нейросетей для генерации изображений, задача становится всё более актуальной.  
 
